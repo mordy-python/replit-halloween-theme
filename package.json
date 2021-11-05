@@ -2,6 +2,10 @@
     "name": "replit-halloween-theme",
     "displayName": "replit-halloween-theme",
     "description": "VSCode theme based on the replit halloween theme",
+    "repository": {
+        "url": "https://github.com/mordy-python/replit-halloween-theme",
+        "type": "git"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.62.0"
