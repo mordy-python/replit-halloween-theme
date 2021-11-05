@@ -1,0 +1,21 @@
+{
+    "name": "replit-halloween-theme",
+    "displayName": "replit-halloween-theme",
+    "description": "VSCode theme based on the replit halloween theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Replit Halloween Theme for VS Code",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Replit Halloween Theme for VS Code-color-theme.json"
+            }
+        ]
+    }
+}
